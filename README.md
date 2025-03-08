@@ -62,7 +62,7 @@ projeto-geolocalizacao
 ## Imagem de Exemplo
 Aqui está uma imagem de exemplo mostrando as informações geradas pelo projeto:
 
-<img src="img/img_geolocaliza.png" alt="Geolocalização Exemplo"/>
+![Geolocalização Exemplo](img/img_geolocaliza.png)
 
 ## Tecnologias Utilizadas
 - Python
