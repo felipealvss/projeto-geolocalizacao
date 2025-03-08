@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <!-- Metadados da página -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Geolocalização</title>
+        <!-- Link para o arquivo CSS -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    </head>
+
+    <body>
+        <!-- Título da página -->
+        <h1>Obter Geolocalização</h1>
+        <!-- Botão para obter a localização -->
+        <button onclick="getLocation()">Mostrar Localização</button>
+        <!-- Parágrafo para exibir a localização -->
+        <p id="location"></p>
+
+        <!-- Link para o arquivo JavaScript -->
+        <script src="{{ url_for('static', filename='js/geolocation.js') }}"></script>
+    </body>
+</html>

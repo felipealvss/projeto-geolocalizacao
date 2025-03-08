@@ -1,0 +1,13 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte padrão */
+    text-align: center; /* Centraliza o texto */
+    margin: 50px; /* Define a margem ao redor do corpo */
+}
+
+/* Estilo para o botão */
+button {
+    padding: 10px 20px; /* Define o preenchimento interno do botão */
+    font-size: 16px; /* Define o tamanho da fonte do botão */
+    cursor: pointer; /* Altera o cursor para indicar que o botão é clicável */
+}
