@@ -59,6 +59,11 @@ projeto-geolocalizacao
 - Exibe a geolocalização do usuário ao clicar em um botão.
 - Registra os dados de latitude, longitude e data/hora em um arquivo `log.txt`.
 
+## Imagem de Exemplo
+Aqui está uma imagem de exemplo mostrando as informações geradas pelo projeto:
+
+![Geolocalização Exemplo](img/img_geolocaliza.png)
+
 ## Tecnologias Utilizadas
 - Python
 - Flask
